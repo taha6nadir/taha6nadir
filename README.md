@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Taha 👋
 
-<!--
-**taha6nadir/taha6nadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack web developer 🚀
 
-Here are some ideas to get you started:
+## 🛠️ Tech stack
+- **Back-end:** PHP,Python,MySQL,laravel
+- **Front-end:** HTML, CSS, JavaScript, React, Bootstrap
+- **Tools:** Git, GitHub
+- **Conception:** Merise (database modeling)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- **[ISMO-SkillSwap](https://github.com/taha6nadir/ISMO-SKILLSWAP)**: a web platform for mutual help between trainees, mentors, and trainers (help requests, mentor ratings, skill validation, badges).
+
+## 🎯 Currently
+- Improving my PHP and React skills
+- Building more full stack projects
+
+## 📫 Contact
+- Email: your.email@example.com
+- LinkedIn: add your link here
